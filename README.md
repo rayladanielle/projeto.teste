@@ -1,6 +1,7 @@
 # projeto web
-PROJETO TESTE
-**equipe
+
+# PROJETO TESTE
+## Equipe:
 
 1. Rayla
 2. Joice
